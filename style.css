@@ -1,0 +1,35 @@
+/* Universal styling */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Element styling */
+a {
+    color: #C5BAAF;
+}
+
+h1 {
+    color: #ecb478;
+}
+
+img {
+    width: 30%;
+    height: 30%;
+    border-radius: 5%;
+}
+
+/* Class styling */
+
+.main {
+    margin: auto;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.recipe-link {
+    font-size: 1.2em;
+}
+
+.recipe-title-card {
+    text-align: center;
+}
