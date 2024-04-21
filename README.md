@@ -1,6 +1,6 @@
 # odin-recipes
 
-![image](https://github.com/danielelli/odin-recipes/assets/90986300/ab01e754-b5c9-4954-a39e-873d45eb92c8)
+![image](https://github.com/danielelli/odin-recipes/assets/90986300/f78b1781-c8c4-4e73-90ee-2adbe207e871)
 
 **A minimalistic recipe website that is simple yet sweet (or savory, depending on the recipe 😄)**
 
