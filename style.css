@@ -1,35 +1,54 @@
 /* Universal styling */
 * {
     font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Element styling */
-a {
-    color: #C5BAAF;
-}
-
-h1 {
+    color: #424b54;
+  }
+  
+  /* Element styling */
+  a {
+    color: #c5baaf;
+  }
+  
+  h1 {
     color: #ecb478;
-}
-
-img {
+  }
+  
+  li {
+    margin: 8px;
+  }
+  
+  img {
     width: 30%;
     height: 30%;
     border-radius: 5%;
-}
-
-/* Class styling */
-
-.main {
+  }
+  
+  /* Class styling */
+  
+  .main {
     margin: auto;
     padding-left: 15%;
     padding-right: 15%;
-}
-
-.recipe-link {
+  }
+  
+  .header-div {
+    background: #424b54;
+    margin-bottom: 16px;
+    padding: 6px 6px;
+  }
+  
+  .recipe-instructions-card {
+    background-color: #f5f5f5;
+    padding: 32px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .recipe-link {
     font-size: 1.2em;
-}
-
-.recipe-title-card {
+  }
+  
+  .recipe-title-card {
     text-align: center;
-}
+  }
+  
